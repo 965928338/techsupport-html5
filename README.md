@@ -3,36 +3,28 @@
 
 关于Html5元素周期表<br/>
 
-  Html5元素周期表是一款前端开发入门辅助工具，用于快速查看html5标签的用法。
+  - Html5元素周期表是一款前端开发入门辅助工具，用于快速查看html5标签的用法。
 
 
-  清晰可辨的颜色分组<br/>
+  - 清晰可辨的颜色分组<br/>
+  - -仿照大家熟悉的化学元素周期表排布，根据不同组别的标签，分组，并且标识不同颜色；
 
-  -仿照大家熟悉的化学元素周期表排布，根据不同组别的标签，分组，并且标识不同颜色；
+   - 轻巧便携的使用体验<br/>
+   - -小巧的应用，不占用过大的手机空间；
+ 
 
-  轻巧便携的使用体验<br/>
-
-  -小巧的应用，不占用过大的手机空间；
-<br/>
-<br/>
-
-  快捷高效的使用流程<br/>
-
-  -在开发时，不需要切换电脑界面，就能看到完整的标签使用方法。
-
-<br/>
-<br/>
+   - 快捷高效的使用流程<br/>
+   - -在开发时，不需要切换电脑界面，就能看到完整的标签使用方法。
+ 
 
 Support of html5元素周期表<br/>
 
-  If you have any questions, please contact us by this email and we give reply to you as soon as possible.<br/>
+   - If you have any questions, please contact us by this email and we give reply to you as soon as possible.<br/>
 
-  如果您有任何问题，请通过以下的邮件联系我们，我们会尽快的回复您！<br/>
+   - 如果您有任何问题，请通过以下的邮件联系我们，我们会尽快的回复您！<br/>
 
-  Email:AidahLpaapnN@yahoo.com<br/>
+   - Email:AidahLpaapnN@yahoo.com<br/>
 
-  <br/>
-<br/>
-
+ 
   
   Thanks.
